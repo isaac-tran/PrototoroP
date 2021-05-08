@@ -4,6 +4,9 @@ Module:		CSC3224 - Computer Games Development.
 ---------------------------------------------------------------
 	Coursework 2 - Finished Game
 
+The prototype version of PrototoroP can be played at:
+https://isaac-tran.github.io/PrototoroP_Prototype/
+
 My finished game, PrototoroP, can be played at:
 https://isaac-tran.github.io/PrototoroP/
 
