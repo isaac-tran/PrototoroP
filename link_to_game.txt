@@ -1,0 +1,14 @@
+Student Name: 	Tri-Quang (Isaac) Tran.
+Student Number:	180267848
+Module:		CSC3224 - Computer Games Development.
+---------------------------------------------------------------
+	Coursework 2 - Finished Game
+
+My finished game, PrototoroP, can be played at:
+https://isaac-tran.github.io/PrototoroP/
+
+Game Controls:
+Move		Arrow Keys / WASD
+Shoot		Q / Space / Enter
+Swap Weapons	E / LShift / RShift
+Developer Mode	H
