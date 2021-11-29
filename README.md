@@ -1,5 +1,6 @@
 # PrototoroP
  A game about a prototype ship shooting prototype ships in a prototype space!
+ Play the game here: https://isaac-tran.github.io/PrototoroP/
 
 ## Controls
 [Move]		          Arrow Keys / WASD<br>
