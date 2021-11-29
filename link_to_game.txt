@@ -10,7 +10,7 @@ Github: https://github.com/isaac-tran/PrototoroP_Prototype
 
 My finished game, PrototoroP, can be played at:
 https://isaac-tran.github.io/PrototoroP/
-Github: https://github.com/isaac-tran/Protoproto
+Github: https://github.com/isaac-tran/PrototoroP
 
 Game Controls:
 Move		Arrow Keys / WASD
